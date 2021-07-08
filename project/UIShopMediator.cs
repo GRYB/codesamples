@@ -27,7 +27,6 @@ namespace UI
         #endregion
 
         private List<BandMemberData> _members = new List<BandMemberData>();
-        private BandMemberData _selectedBandMember;
         private int? _selectedCardIndex;
 
         private BandAssembleCallBacks _callBacks;
